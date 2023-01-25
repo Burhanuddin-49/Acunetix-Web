@@ -1,0 +1,102 @@
+.footer {
+  backdrop-filter: blur(30px);
+  color: white;
+  scroll-snap-align: start;
+  padding: 20px;
+}
+
+.map-container {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 280px;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.card text-bg-dark {
+  background-color: #454545 !important;
+}
+
+.logo-csi {
+  height: 112px;
+  padding-bottom: 6px;
+}
+
+
+.contact-us {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.contact-header {
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+.footer-widget-heading h3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  position: relative;
+}
+.footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  height: 2px;
+  width: 50px;
+  background: #5f7892;
+}
+.footer-widget ul li {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-bottom: 12px;
+}
+.footer-widget ul li a:hover {
+  color: #5f7892;
+}
+.footer-widget ul li a {
+  color: #878787;
+  text-transform: capitalize;
+}
+.subscribe-form {
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-form input {
+  width: 100%;
+  padding: 14px 28px;
+  /* background: #2e2e2e; */
+  background: smoke;
+  /* border: 1px solid #2e2e2e; */
+  color: #000;
+  text-decoration: none;
+}
+.subscribe-form button {
+  position: absolute;
+  right: 0;
+  /* background: #5f7892; */
+  padding: 13px 20px;
+  border: 1px solid #5f7892;
+  top: 2;
+}
+.subscribe-form button i {
+  color: #fff;
+  font-size: 22px;
+  transform: rotate(-6deg);
+}
+.subscribe-form span {
+  /* color: #5f7892; */
+  margin-top: 10px;
+  display: block;
+}

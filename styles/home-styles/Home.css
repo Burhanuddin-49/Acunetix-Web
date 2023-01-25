@@ -1,0 +1,50 @@
+/* .body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  background: #112434;
+  min-height: 100vh;
+} */
+
+/* .body video {
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+/* .home-bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+} */
+
+.section {
+  position: absolute;
+  /* background-color: blueviolet; */
+  top: 20%;
+  width: 100%;
+  height: 80vh;
+  overflow: auto;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  /* scroll-snap-type: y mandatory; */
+  scrollbar-width: none;
+  padding: 20px;
+  border-radius: 50px 50px 0 0;
+}
+
+.section::-webkit-scrollbar {
+  display: none;
+}
+
+@media only screen and (max-width: 850px) {
+  .section {
+    top: 15%;
+  }
+}

@@ -1,0 +1,141 @@
+.carousel .carousel-inner {
+  height: 400px;
+}
+.carousel-inner .carousel-item img {
+  min-height: 200px;
+  object-fit: cover;
+}
+
+@media (max-width: 850px) {
+  .carousel .carousel-inner {
+    height: auto;
+  }
+  .bodyEvent .containerEvent .headingEvent h2 {
+    font-size: 30px;
+  }
+}
+
+.bodyEvent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* background: #ebf5fc; */
+}
+.containerEvent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  flex-wrap: wrap;
+  padding: 40x 0;
+}
+
+.containerEvent .headingEvent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+.containerEvent .headingEvent h2 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 45px;
+  margin-top: 25px;
+  align-items: center;
+  padding-right: 45px;
+  padding-left: 12px;
+}
+.containerEvent .cardEvent {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 340px;
+  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.05),
+    inset -5px -5px 5px rgba(225, 225, 225, 0.108),
+    5px 5px 5px rgba(0, 0, 0, 0.05), -5px -5px 5px rgba(225, 225, 225, 0.073);
+  border-radius: 30px;
+  margin: 30px;
+}
+.containerEvent .cardEvent .box {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  height: 300px;
+  width: 300px;
+  background: #d2cbd8fa;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+.containerEvent .cardEvent:hover .box {
+  transform: translateY(-50px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(45deg, #b95ce4, #4f29cd);
+}
+.containerEvent .cardEvent .box .content {
+  padding: 20px;
+  text-align: center;
+}
+
+
+.content img {
+  border-radius: 5px;
+  object-fit: cover;
+  width: 280px;
+}
+
+.containerEvent .cardEvent .box .content h4 {
+  font-size: 1.8em;
+  color: #777;
+  z-index: 1;
+  padding-top: 14px;
+  transition: 0.5s;
+}
+.containerEvent .cardEvent:hover .box .content h4 {
+  font-size: 1.8em;
+  color: rgb(255, 255, 255);
+  z-index: 1;
+  padding-top: 14px;
+  transition: 0.5s;
+}
+
+.containerEvent .cardEvent .box .content .more {
+  position: relative;
+  display: inline-block;
+  padding: 8px 20px;
+  background: rgb(84, 8, 114);
+  margin-top: 15px;
+  border-radius: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.02);
+}
+.containerEvent .cardEvent .box .content .register {
+  position: relative;
+  display: inline-block;
+  padding: 8px 20px;
+  background: #ff568f;
+  margin-top: 15px;
+  margin-left: 18px;
+  border-radius: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.02);
+}
+.containerEvent .cardEvent:hover .box .content .register {
+  background: rgb(84, 8, 114);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.02);
+}
+.containerEvent .cardEvent:hover .box .content .more {
+  background: #ff568f;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.02);
+}
