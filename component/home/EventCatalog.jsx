@@ -3,13 +3,14 @@ import React from "react";
 // import "./styles/EventCatalog.css";
 // import event from "/public/image/event.jpg";
 import { useRouter } from "next/router";
+import Carousel from "../home/Carousel";
 
 const EventCatalog = () => {
   const { push } = useRouter();
   return (
     <div className="EventCatalog">
       <div className="split2 left2">
-        <div
+        {/* <div
           id="carouselExampleInterval"
           className="carousel slide"
           data-bs-ride="carousel"
@@ -49,7 +50,8 @@ const EventCatalog = () => {
             ></span>
             <span className="visually-hidden">Next</span>
           </button>
-        </div>
+        </div> */}
+        <Carousel />
       </div>
       <div className="split2 right2">
         <h1>Event Catalog</h1>

@@ -1,16 +1,13 @@
-import React from "react";
+import Link from "next/link";
+import React, { useState } from "react";
+import { Button } from "react-bootstrap";
+import MyVerticallyCenteredModal from "../event/ModuleReadMore";
 // import "./Card.css";
+import { data } from "../event/eventdata";
 
 export default function cards2() {
-  const data = [
-    { id: 1, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 2, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 3, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 3, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 3, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 3, name: "game", img: "image/event.jpg", date: "2 Dec" },
-    { id: 3, name: "game", img: "image/event.jpg", date: "2 Dec" },
-  ];
+  const [modalShow, setModalShow] = useState(false);
+  const [ModalData, setModalData] = useState("");
 
   return (
     <>
@@ -64,22 +61,36 @@ export default function cards2() {
           </div>
 
           {data.map((data) => (
-            <div className="cardEvent">
+            <div className="cardEvent" key={data.id}>
               <div className="box">
                 <div className="content">
                   <img src={data.img} alt="" />
                   <h4>{data.date}</h4>
-                  <a href="/event" className="more">
-                    Read more
-                  </a>
-                  <a href="/event" className="register">
+                  <Button
+                    className="more"
+                    variant="primary"
+                    onClick={() => {
+                      setModalData(data);
+                      setModalShow(true);
+                    }}
+                  >
+                    Read More
+                  </Button>
+                  <Button href="/event" className="register">
                     Register
-                  </a>
+                  </Button>
                 </div>
               </div>
             </div>
           ))}
         </div>
+        <MyVerticallyCenteredModal
+          eventname={ModalData.name}
+          eventdetail={ModalData.eventdetail}
+          eventsubline={ModalData.eventsubline}
+          show={modalShow}
+          onHide={() => setModalShow(false)}
+        />
       </div>
     </>
   );

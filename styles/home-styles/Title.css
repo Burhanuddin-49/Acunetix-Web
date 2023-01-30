@@ -25,9 +25,10 @@
     rgb(206, 186, 207),
     rgb(212, 203, 216)
   ); */
-  color: rgb(145, 5, 5);
-  -webkit-text-stroke: 2px rgb(239, 18, 18);
-  /* -webkit-text-fill-color: transparent; */
+  background-image: linear-gradient(to bottom, #e2bad2, #c498b6, #a6779c, #885884, #6a3a6c, #65326c, #5f2a6c, #59226c, #6a2d84, #7b389d, #8c44b7, #9c51d2);
+  /* color: rgb(145, 5, 5); */
+  -webkit-text-stroke: 2px #e2bad2;
+  -webkit-text-fill-color: transparent;
   background-clip: text;
   font-weight: 900;
   transition: font-size 1s;

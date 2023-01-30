@@ -1,10 +1,33 @@
 import { Telegram } from "@mui/icons-material";
-import React from "react";
+import React, { useState } from "react";
 // import "./styles/Footer.css";
 // import aces from "image/aces.jpeg";
 // import csi from "image/CSI.png";
 
 const Footer = () => {
+  const [emailsend, setEmailsend] = useState(false);
+  if (typeof document !== "undefined") {
+    // during client evaluation
+    const scriptURL =
+      "https://script.google.com/macros/s/AKfycbxXcRnfGTgBAuGzN-Xx2Ajb2R-8GZnWfXkXAnoibT7VEgWfJn0wePRl48zSXHRCOqVS/exec";
+    const form = document.forms["submit-to-google-sheet"];
+    const msg = document.getElementById("msg");
+
+    if (emailsend) {
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        fetch(scriptURL, { method: "POST", body: new FormData(form) })
+          .then((response) => {
+            msg.innerHTML = "Thanks You For Subscribing!";
+            setTimeout(() => {
+              msg.innerHTML = "";
+            }, 5000);
+            form.reset();
+          })
+          .catch((error) => console.error("Error!", error.message));
+      });
+    }
+  }
   return (
     <footer>
       <div className="container-fluid py-4 border-3 border-danger footer">
@@ -47,17 +70,21 @@ const Footer = () => {
                         </p>
                       </div>
                       <div className="subscribe-form">
-                        <form action="/">
+                        <form name="submit-to-google-sheet">
                           <input
                             type="email"
                             name="Email"
                             placeholder="Email Address"
+                            required
                           />
-                          <button>
+                          <button
+                            type="submit"
+                            onClick={() => setEmailsend(true)}
+                          >
                             <Telegram className="icon-bg" />
                           </button>
                         </form>
-                        <span>Thanks You For Subscribing!</span>
+                        <span id="msg"></span>
                       </div>
                       <div className="created-website">
                         {/* <p>

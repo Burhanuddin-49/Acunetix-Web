@@ -63,7 +63,7 @@ const Sponsor = () => {
               <a href="/">
                 <div className="spon_name">Sponsor Name</div>
                 <img
-                  src="spon_5.png"
+                  src="/image/sponsor.jpg"
                   className="spon_img"
                   alt="Sponsors Logo"
                 />
@@ -86,7 +86,7 @@ const Sponsor = () => {
               <a href="/">
                 <div className="spon_name">Sponsor Name</div>
                 <img
-                  src="spon_3.png"
+                  src="/image/sponsor.jpg"
                   className="spon_img"
                   alt="Sponsors Logo"
                 />
@@ -109,7 +109,7 @@ const Sponsor = () => {
               <a href="/">
                 <div className="spon_name">Sponsor Name</div>
                 <img
-                  src="spon_4.png"
+                  src="/image/sponsor.jpg"
                   className="spon_img"
                   alt="Sponsors Logo"
                 />
@@ -132,7 +132,7 @@ const Sponsor = () => {
               <a href="/">
                 <div className="spon_name">Sponsor Name</div>
                 <img
-                  src="spon_5.png"
+                  src="/image/sponsor.jpg"
                   className="spon_img"
                   alt="Sponsors Logo"
                 />
