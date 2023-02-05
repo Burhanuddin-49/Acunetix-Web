@@ -20,7 +20,7 @@ export default function MyVerticallyCenteredModal(props) {
       </Modal.Body>
       <Modal.Footer>
         {/* <Button onClick={props.onHide}>Close</Button> */}
-        <Button href="/">Register</Button>
+        <Button href={props.eventlink} target="_blank">Register</Button>
       </Modal.Footer>
     </Modal>
   );

@@ -6,7 +6,9 @@ const Header = () => {
   const [menu, setMenu] = useState(false);
   return (
     <nav className="navbar">
-      <h1 className="logo">Acunetix 10.0</h1>
+      <Link href="/">
+        <h1 className="logo">Acunetix 10.0</h1>
+      </Link>
       <ul className={`nav-links`} id={`mobile-menu-${menu}`}>
         <li className="active">
           <Link href="/" onClick={() => setMenu(false)}>

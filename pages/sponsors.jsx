@@ -4,6 +4,7 @@ import React from "react";
 const Sponsor = () => {
   return (
     <div className="sponsor">
+      <title>ACUNETIX 10.0 | Sponsors</title>
       <div className="sponsor-title">
         <h1>Sponsors</h1>
       </div>

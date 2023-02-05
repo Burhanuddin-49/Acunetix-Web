@@ -20,6 +20,7 @@ export const data = [
       
       ᴛʜᴇ ᴇᴠᴀʟᴜᴀᴛɪᴏɴ ᴡɪʟʟ ᴄᴏɴꜱɪꜱᴛ ᴏꜰ 10 ᴄᴏᴅɪɴɢ ᴛᴀꜱᴋꜱ, ᴇᴀᴄʜ ᴛᴀꜱᴋ ᴏꜰ 20 ᴘᴏɪɴᴛꜱ ꜰᴏʀ ᴏᴘᴛɪᴍᴀʟ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ. ᴘᴏɪɴᴛꜱ ᴡɪʟʟ ʙᴇ ᴀᴡᴀʀᴅᴇᴅ ʙᴀꜱᴇᴅ ᴏɴ ᴛʜᴇ Qᴜᴀʟɪᴛʏ ᴏꜰ ᴛʜᴇ ꜱᴜʙᴍɪᴛᴛᴇᴅ ꜱᴏʟᴜᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ᴘᴏꜱꜱɪʙʟᴇ ʀᴀɴɢᴇ ᴏꜰ 0-20 ᴘᴇʀ ᴛᴀꜱᴋ.
       `,
+    eventlink: "https://forms.gle/p981byHmGTW9VLGM8",
   },
   {
     id: 2,
@@ -36,6 +37,7 @@ export const data = [
     
     🔶 Round 2: ᴇᴅɪᴛᴛɪɴɢ ᴛʜᴇ ᴄᴀᴘᴛᴜʀᴇᴅ ᴘʜᴏᴛᴏ ɪɴ ᴄᴏʟʟᴇɢᴇ ʟᴀʙꜱ ᴏɴ ᴛʜᴇ ᴘʀᴇɪɴꜱᴛᴀʟʟᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴡɪᴛʜɪɴ ᴀ ɢɪᴠᴇɴ ᴛɪᴍᴇ ꜰʀᴀᴍᴇ. 👨🏻‍💻
     `,
+    eventlink: "https://forms.gle/6S2VVwFFW3Vz4ApcA",
   },
   {
     id: 3,
@@ -52,6 +54,7 @@ export const data = [
     
     🔶 Round 2:  ᴘɪᴛᴄʜ ʏᴏᴜʀ ɪᴅᴇᴀꜱ ᴛᴏ ᴊᴜᴅɢᴇꜱ 🎤
     `,
+    eventlink: "https://forms.gle/Er45GXiqhiW4DWbEA",
   },
   {
     id: 4,
@@ -67,6 +70,7 @@ export const data = [
      --> 🎮 BGMI
     --> 🎮 VALORANT
     --> 🎮 COUNTER STRIKE`,
+    eventlink: "https://forms.gle/t8FqBqWygs1ibxWm9",
   },
   {
     id: 5,
@@ -81,6 +85,7 @@ export const data = [
     🔶 ʙʏ ᴄᴏᴍᴘʟᴇᴛɪɴɢ ᴛᴀꜱᴋꜱ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴘ ᴏꜰ ᴄʟᴜᴇꜱ ᴀɴᴅ ʜɪɴᴛꜱ, ᴛʜᴇ ꜰɪɴᴀʟ ᴍᴜʀᴅᴇʀᴇʀ  ꜱʜᴀʟʟ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛʜᴇ ᴄᴏᴍᴘᴜᴛᴇʀ 🕵‍♀
     
     🔶 ᴘᴀʀᴛɪᴄɪᴘᴀᴛɪᴏɴ ᴄᴀɴ ʙᴇ ᴇɪᴛʜᴇʀ ᴀꜱ ᴀ ꜱᴏʟᴏ ᴏʀ ᴀꜱ ᴀ ᴅᴜᴏ 👩🏻‍💻`,
+    eventlink: "https://forms.gle/EHeU1RxJK4XTBnKU7",
   },
   {
     id: 6,
@@ -91,6 +96,7 @@ export const data = [
     eventdetail: `🔶 ᴀ ᴅᴏᴍᴀɪɴ ʙᴀꜱᴇᴅ ᴄᴏᴍᴘᴇᴛɪᴛɪᴏɴ ᴡʜᴇʀᴇɪɴ ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ᴜɪ/ᴜx ᴅᴇꜱɪɢɴ ʙᴀꜱᴇᴅ ᴏɴ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴏᴘɪᴄ 🧑🏻‍💻👩🏻‍💻
  
     🔶ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴡɪʟʟ ꜱᴏʟᴇʟʏ ʙᴇ ᴊᴜᴅɢᴇᴅ ᴏɴ ᴛʜᴇɪʀ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴜɪ/ᴜx ᴅᴇꜱɪɢɴ 🏆`,
+    eventlink: "https://forms.gle/1e3NGWqrBpM1M17U7",
   },
   {
     id: 7,
@@ -115,6 +121,7 @@ export const data = [
     🔶 Round 3 : ᴍᴏᴄᴋ ɪɴᴛᴇʀᴠɪᴇᴡ 
     
     ᴘʀᴇᴘᴀʀᴇ ʏᴏᴜʀꜱᴇʟꜰ ꜰᴏʀ ɪɴᴛᴇʀᴠɪᴇᴡ`,
+    eventlink: "https://forms.gle/Eod7SpGKA13wMHcj6",
   },
   {
     id: 8,
@@ -130,6 +137,7 @@ export const data = [
     🟡 ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴄᴀɴ ᴘʟᴀʏ ᴀꜱ ᴀ ᴛᴇᴀᴍ ᴏꜰ 5 ᴍᴇᴍʙᴇʀꜱ 👥
      
     🔵 ᴛʜᴇ ᴇᴠᴇɴᴛ ᴡɪʟʟ ᴛᴀᴋᴇ ᴘʟᴀᴄᴇ ᴡɪᴛʜɪɴ ᴀɴᴅ ᴏᴜᴛꜱɪᴅᴇ ᴛʜᴇ ᴄᴏʟʟᴇɢᴇ ᴄᴀᴍᴘᴜꜱ 🏫`,
+    eventlink: "https://forms.gle/Uh4GZSchSdUrpRw39",
   },
   {
     id: 9,
@@ -142,6 +150,7 @@ export const data = [
     🔶 ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴄᴀɴ ᴜꜱᴇ ᴀɴʏ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ ᴏꜰ ᴛʜᴇɪʀ ᴄʜᴏɪᴄᴇ.👩🏻‍💻
     
     🔶 ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴡɪʟʟ ᴄᴏɴᴛᴇɴᴅ ɪɴ ᴛʜʀᴇᴇ ʀᴏᴜɴᴅꜱ ᴀɴᴅ ᴄᴏᴍᴘᴇᴛᴇ ᴛᴏ ᴡɪɴ ᴠᴀʀɪᴏᴜꜱ ᴇxᴄɪᴛɪɴɢ ᴘʀɪᴢᴇꜱ. 💰`,
+    eventlink: "https://forms.gle/i3ReifxTXZLTAtmp7",
   },
   {
     id: 10,
@@ -167,5 +176,6 @@ export const data = [
     Qᴜɪᴄᴋʟʏ
     
     🏆 wɪɴɴɪɴɢ ᴛᴇᴀᴍs ᴡɪʟʟ ʙᴇ ʀᴇᴡᴀʀᴅᴇᴅ ᴡɪᴛʜ ᴄᴀsʜ ᴘʀɪᴢᴇs 💰🤑`,
+    eventlink: "https://forms.gle/68nTsa7VHkpLukP66",
   },
 ];

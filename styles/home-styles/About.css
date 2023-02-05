@@ -52,6 +52,10 @@
     padding: 25px;
   }
 
+  .container1 {
+    display: none;
+  }
+
   /* .container1 img {
     width: 380px;
     height: 350px;

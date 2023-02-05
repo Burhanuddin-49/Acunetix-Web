@@ -7,7 +7,7 @@ import SponsorCatalog from "./SponsorCatalog";
 const Layout = () => {
   return (
     <div className="body">
-      {/* <video src={video} autoPlay muted loop className="home-bg-video" />  */}
+      <title>ACUNETIX 10.0 | Home</title>
       <div className="section">
         <Title />
         <About />

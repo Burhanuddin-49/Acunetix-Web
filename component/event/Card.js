@@ -11,6 +11,7 @@ export default function cards2() {
 
   return (
     <>
+    <title>ACUNETIX 10.0 | Events</title>
       <div className="container">
         <div
           id="carouselExampleInterval"
@@ -76,7 +77,7 @@ export default function cards2() {
                   >
                     Read More
                   </Button>
-                  <Button href="/event" className="register">
+                  <Button href={data.eventlink} target="_blank" className="register">
                     Register
                   </Button>
                 </div>
@@ -88,6 +89,7 @@ export default function cards2() {
           eventname={ModalData.name}
           eventdetail={ModalData.eventdetail}
           eventsubline={ModalData.eventsubline}
+          eventlink={ModalData.eventlink}
           show={modalShow}
           onHide={() => setModalShow(false)}
         />

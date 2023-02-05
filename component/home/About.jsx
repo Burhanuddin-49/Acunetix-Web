@@ -26,13 +26,22 @@ const About = () => {
     <div className="about">
       <div className="split left">
         <h1>About</h1>
+        <p>Greetings from TEAM ACUNETIX</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
-          quidem placeat facere excepturi ipsa cum quod, consequuntur blanditiis
-          perferendis saepe enim ab cumque ipsam molestiae eum! Voluptatibus
-          voluptate illo expedita alias atque praesentium temporibus
-          exercitationem molestias dolore assumenda consequatur, facilis
-          sapiente, veniam ad nostrum incidunt, sunt possimus nam? Libero, at.
+          ACUNETIX is one of the largest events, which is also the flagship
+          event of the two major student councils- Association of Computer
+          Engineering Students (ACES) and Computer Society of India (CSI), at
+          the Dr. D Y Patil Institute of Technology Pimpri.
+        </p>
+        <p>
+          It was first conducted in 2012 and it conducts various technical and
+          non technical events every year. Acunetix entertains a crowd of over
+          4K people including college students and tech enthusiasts from all
+          over Pune along with active participation of almost 2000 individuals.
+        </p>
+        <p>
+          After 3 years of long wait, DIT Pimpri is back with its tenth edition
+          of Acunetix, we present to you ACUNETIX 10.0
         </p>
       </div>
       <div className="split right container1">
