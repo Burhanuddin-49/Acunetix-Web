@@ -55,8 +55,8 @@ const Footer = () => {
                     <div className="contact-header">
                       <h3 className="footer-widget-heading">Contact</h3>
                     </div>
-                    <h5>Burhanuddin +9199999999</h5>
-                    <h5>Burhanuddin +9199999999</h5>
+                    <h5>Justin Davis +917972604472</h5>
+                    <h5>Parth Joshi +919016787761</h5>
                   </div>
                   <div className="subscribe">
                     <div className="footer-widget">
@@ -106,7 +106,7 @@ const Footer = () => {
         className="text-center py-3"
         style={{ backdropFilter: "blur(100px)", color: "white" }}
       >
-        ©2022 Team Acunetix. All rights reserved.
+        ©2023 Team Acunetix. All rights reserved.
       </div>
     </footer>
   );

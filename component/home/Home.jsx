@@ -3,7 +3,7 @@ import About from "./About";
 import Footer from "./Footer";
 import Title from "./Title";
 import EventCatalog from "./EventCatalog";
-import SponsorCatalog from "./SponsorCatalog";
+// import SponsorCatalog from "./SponsorCatalog";
 const Layout = () => {
   return (
     <div className="body">
@@ -12,7 +12,7 @@ const Layout = () => {
         <Title />
         <About />
         <EventCatalog />
-        <SponsorCatalog />
+        {/* <SponsorCatalog /> */}
         <Footer />
       </div>
     </div>

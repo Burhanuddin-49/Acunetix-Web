@@ -82,12 +82,12 @@ ul {
     height: 100vh;
     justify-content: center;
     background-color: #1c0522da;
-    margin-top: -900px;
+    margin-top: -1000px;
     transition: all 0.5s ease;
   }
 
   #mobile-menu-false {
-    margin-top: -900x;
+    margin-top: -1000x;
   }
   #mobile-menu-true {
     margin-top: 0px;

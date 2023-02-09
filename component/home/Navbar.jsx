@@ -20,11 +20,11 @@ const Header = () => {
             Event
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/sponsors" onClick={() => setMenu(false)}>
             Sponsors
           </Link>
-        </li>
+        </li> */}
       </ul>
       <img
         className={`menu-btn`}

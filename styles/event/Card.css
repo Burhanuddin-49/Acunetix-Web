@@ -84,11 +84,11 @@
   text-align: center;
 }
 
-
 .content img {
   border-radius: 5px;
-  object-fit: cover;
+  object-fit: fill;
   width: 280px;
+  height: 145px;
 }
 
 .containerEvent .cardEvent .box .content h4 {

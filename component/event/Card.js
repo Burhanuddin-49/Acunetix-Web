@@ -1,9 +1,9 @@
-import Link from "next/link";
 import React, { useState } from "react";
 import { Button } from "react-bootstrap";
 import MyVerticallyCenteredModal from "../event/ModuleReadMore";
 // import "./Card.css";
 import { data } from "../event/eventdata";
+import IndividualIntervalsExample from "./Carousel";
 
 export default function cards2() {
   const [modalShow, setModalShow] = useState(false);
@@ -11,15 +11,37 @@ export default function cards2() {
 
   return (
     <>
-    <title>ACUNETIX 10.0 | Events</title>
+      <title>ACUNETIX 10.0 | Events</title>
       <div className="container">
-        <div
+        {/* <div
           id="carouselExampleInterval"
           className="carousel slide"
           data-bs-ride="carousel"
         >
           <div className="carousel-inner">
             <div className="carousel-item active" data-bs-interval="3000">
+              <img
+                src="https://drive.google.com/uc?export=view&id=1cI4tLK2RyyDv0EKRi_J6-S07FyPuOWzK"
+                className="d-block w-100"
+                alt=""
+              />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
+              <img src="image/event.jpg" className="d-block w-100" alt="" />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
+              <img src="image/event.jpg" className="d-block w-100" alt="" />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
+              <img src="image/event.jpg" className="d-block w-100" alt="" />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
+              <img src="image/event.jpg" className="d-block w-100" alt="" />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
+              <img src="image/event.jpg" className="d-block w-100" alt="" />
+            </div>
+            <div className="carousel-item" data-bs-interval="3000">
               <img src="image/event.jpg" className="d-block w-100" alt="" />
             </div>
             <div className="carousel-item" data-bs-interval="3000">
@@ -53,8 +75,9 @@ export default function cards2() {
             ></span>
             <span className="visually-hidden">Next</span>
           </button>
-        </div>
+        </div> */}
       </div>
+        <IndividualIntervalsExample />
       <div className="bodyEvent">
         <div className="containerEvent">
           <div className="headingEvent">
@@ -65,8 +88,11 @@ export default function cards2() {
             <div className="cardEvent" key={data.id}>
               <div className="box">
                 <div className="content">
-                  <img src={data.img} alt="" />
-                  <h4>{data.date}</h4>
+                  <div>
+                    <img src={data.img} alt="" />
+                  </div>
+                  <h4>{data.name}</h4>
+                  <h6>{data.date}</h6>
                   <Button
                     className="more"
                     variant="primary"
@@ -77,7 +103,11 @@ export default function cards2() {
                   >
                     Read More
                   </Button>
-                  <Button href={data.eventlink} target="_blank" className="register">
+                  <Button
+                    href={data.eventlink}
+                    target="_blank"
+                    className="register"
+                  >
                     Register
                   </Button>
                 </div>
@@ -90,6 +120,7 @@ export default function cards2() {
           eventdetail={ModalData.eventdetail}
           eventsubline={ModalData.eventsubline}
           eventlink={ModalData.eventlink}
+          eventdate={ModalData.date}
           show={modalShow}
           onHide={() => setModalShow(false)}
         />

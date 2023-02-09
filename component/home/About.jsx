@@ -24,7 +24,7 @@ const About = () => {
   }
   return (
     <div className="about">
-      <div className="split left">
+      <div className="split left" style={{ letterSpacing: "2px" }}>
         <h1>About</h1>
         <p>Greetings from TEAM ACUNETIX</p>
         <p>
