@@ -7,7 +7,7 @@ import EventCatalog from "./EventCatalog";
 const Layout = () => {
   return (
     <div className="body">
-      <title>ACUNETIX 10.0 | Home</title>
+      <title>ACUNETIX 10.0</title>
       <div className="section">
         <Title />
         <About />

@@ -54,7 +54,7 @@ export const data = [
     
     🔶 Round 1:  ɪᴅᴇᴀ ꜱᴜʙᴍɪꜱꜱɪᴏɴ 📑
     
-    🔶 Round 2:  ᴘɪᴛᴄʜ ʏᴏᴜʀ ɪᴅᴇᴀꜱ ᴛᴏ ᴊᴜᴅɢᴇꜱ 🎤
+    🔶 Round 2:  market your ideas, create an advertisement for your product/idea 🎤
     `,
     eventlink: "https://forms.gle/Er45GXiqhiW4DWbEA",
   },
@@ -66,9 +66,8 @@ export const data = [
     eventsubline: `⚡ 𝑪𝒐𝒅𝒆, 𝑪𝒐𝒎𝒑𝒊𝒍𝒆, 𝑪𝒐𝒎𝒑𝒆𝒕𝒆 ⚡`,
     eventdetail: `🔶 ᴀ ᴄᴏᴅɪɴɢ ʙᴀꜱᴇᴅ ᴄᴏᴍᴘᴇᴛɪᴛɪᴏɴ ɪɴ ᴡʜɪᴄʜ ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛ ᴡɪʟʟ ᴛᴀᴄᴋʟᴇ ᴇᴀꜱʏ ᴛᴏ ᴄᴏᴍᴘʟᴇx ʟᴇᴠᴇʟ ᴘʀᴏʙʟᴇᴍꜱ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴛʜᴇɪʀ ᴄᴏᴅɪɴɢ ꜱᴋɪʟʟꜱ ɪɴ ᴀ ʟɪᴍɪᴛᴇᴅ ᴀᴍᴏᴜɴᴛ ᴏꜰ ᴛɪᴍᴇ ⏳💻
     
-    🔶 ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴄᴀɴ ᴜꜱᴇ ᴀɴʏ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ ᴏꜰ ᴛʜᴇɪʀ ᴄʜᴏɪᴄᴇ.👩🏻‍💻
-    
-    🔶 ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴡɪʟʟ ᴄᴏɴᴛᴇɴᴅ ɪɴ ᴛʜʀᴇᴇ ʀᴏᴜɴᴅꜱ ᴀɴᴅ ᴄᴏᴍᴘᴇᴛᴇ ᴛᴏ ᴡɪɴ ᴠᴀʀɪᴏᴜꜱ ᴇxᴄɪᴛɪɴɢ ᴘʀɪᴢᴇꜱ. 💰`,
+    🔶 ᴛʜᴇ ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴄᴀɴ ᴜꜱᴇ ᴀɴʏ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ ᴏꜰ ᴛʜᴇɪʀ ᴄʜᴏɪᴄᴇ.👩🏻‍💻`,
+
     eventlink: "https://forms.gle/XCcDvSUHYmeyxYtJ9",
   },
   {
@@ -85,9 +84,9 @@ export const data = [
      
     ᴄᴏᴍᴇ ᴛᴇsᴛ ʏᴏᴜʀ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏɴ ᴄʀɪᴄᴋᴇᴛ
     
-    🔶 Round 2 :  𝑫𝑷𝑳 𝑨𝑼𝑪𝑻𝑰𝑶𝑵
+    🔶 Round 2 :  TEST PANEL
     
-    ᴄʜᴏᴏsᴇ ʏᴏᴜʀ ᴘʟᴀʏᴇʀs
+    test panel consists of quiz + selection of 3 players
     
     🔶 Round 3 :  𝑲𝑵𝑶𝑾 𝒀𝑶𝑼𝑹 𝑻𝑬𝑨𝑴
     
@@ -111,12 +110,13 @@ export const data = [
     
     🔸 𝙍𝙤𝙪𝙣𝙙 1:  𝑴𝑪𝑸 𝑻𝑬𝑺𝑻
     
-    ᴛʜɪꜱ ʀᴏᴜɴᴅ ɪꜱ ᴀ ᴍᴄQ ᴛᴇꜱᴛ ᴏɴ ʙᴀꜱɪᴄ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ, ꜰᴏʀ ᴇᴠᴇʀʏ ᴄᴏʀʀᴇᴄᴛ ᴀɴꜱᴡᴇʀ , ᴇᴀʀɴ 10 ᴘᴏɪɴᴛꜱ.
-    (ᴀꜱꜱᴇꜱꜱᴍᴇɴᴛ ᴡɪʟʟ ᴛᴇꜱᴛ ᴜɴᴅᴇʀꜱᴛᴀɴᴅɪɴɢ, ɴᴏᴛ ᴄᴏᴅɪɴɢ ꜱᴋɪʟʟꜱ)
+    A machine learning quiz where the knowledge of the participant will be tested.
+    No coding questions will be asked, only the understanding and intuition will be tested.
     
     🔸 𝙍𝙤𝙪𝙣𝙙 2 :  𝑪𝑶𝑫𝑬 𝑪𝑯𝑨𝑳𝑳𝑬𝑵𝑮𝑬
     
-    ᴛʜᴇ ᴇᴠᴀʟᴜᴀᴛɪᴏɴ ᴡɪʟʟ ᴄᴏɴꜱɪꜱᴛ ᴏꜰ 10 ᴄᴏᴅɪɴɢ ᴛᴀꜱᴋꜱ, ᴇᴀᴄʜ ᴛᴀꜱᴋ ᴏꜰ 20 ᴘᴏɪɴᴛꜱ ꜰᴏʀ ᴏᴘᴛɪᴍᴀʟ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ. ᴘᴏɪɴᴛꜱ ᴡɪʟʟ ʙᴇ ᴀᴡᴀʀᴅᴇᴅ ʙᴀꜱᴇᴅ ᴏɴ ᴛʜᴇ Qᴜᴀʟɪᴛʏ ᴏꜰ ᴛʜᴇ ꜱᴜʙᴍɪᴛᴛᴇᴅ ꜱᴏʟᴜᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ᴘᴏꜱꜱɪʙʟᴇ ʀᴀɴɢᴇ ᴏꜰ 0-20 ᴘᴇʀ ᴛᴀꜱᴋ.
+    A dataset with partial code will be given and the participant will have to optimize the model with whatever methodology they wish. 
+Limited Internet access will be provided for help during the competition.
     `,
     eventlink: "https://forms.gle/p981byHmGTW9VLGM8",
   },
@@ -158,7 +158,7 @@ export const data = [
     
     🔶 Round 1: ᴄʟᴜᴇꜱ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴛʜᴇ ᴛᴏᴘɪᴄ ᴏꜰ ᴛʜᴇ ᴘʜᴏᴛᴏɢʀᴀᴘʜꜱ , ᴡʜɪᴄʜ ᴍᴜꜱᴛ ʙᴇ ᴄʟɪᴄᴋᴇᴅ ᴡɪᴛʜɪɴ ᴛʜᴇ ᴄᴏʟʟᴇɢᴇ ᴄᴀᴍᴘᴜꜱ 🔎 🔎
     
-    🔶 Round 2: ᴇᴅɪᴛᴛɪɴɢ ᴛʜᴇ ᴄᴀᴘᴛᴜʀᴇᴅ ᴘʜᴏᴛᴏ ɪɴ ᴄᴏʟʟᴇɢᴇ ʟᴀʙꜱ ᴏɴ ᴛʜᴇ ᴘʀᴇɪɴꜱᴛᴀʟʟᴇᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴡɪᴛʜɪɴ ᴀ ɢɪᴠᴇɴ ᴛɪᴍᴇ ꜰʀᴀᴍᴇ. 👨🏻‍💻
+    🔶 Round 2: Editting the captured photograph with any free to use software on your device in a given time frame. 👨🏻‍💻
     `,
     eventlink: "https://forms.gle/6S2VVwFFW3Vz4ApcA",
   },
