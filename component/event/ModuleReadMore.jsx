@@ -16,6 +16,7 @@ export default function MyVerticallyCenteredModal(props) {
       </Modal.Header>
       <Modal.Body>
         <h4>{props.eventsubline}</h4>
+        <h3>{props.tagline}</h3>
         <p>{props.eventdetail}</p>
       </Modal.Body>
       <Modal.Footer>

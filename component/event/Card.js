@@ -121,6 +121,7 @@ export default function cards2() {
           eventsubline={ModalData.eventsubline}
           eventlink={ModalData.eventlink}
           eventdate={ModalData.date}
+          tagline={ModalData.tagline}
           show={modalShow}
           onHide={() => setModalShow(false)}
         />
