@@ -77,7 +77,7 @@ export default function cards2() {
           </button>
         </div> */}
       </div>
-        <IndividualIntervalsExample />
+      <IndividualIntervalsExample />
       <div className="bodyEvent">
         <div className="containerEvent">
           <div className="headingEvent">
@@ -122,6 +122,11 @@ export default function cards2() {
           eventlink={ModalData.eventlink}
           eventdate={ModalData.date}
           tagline={ModalData.tagline}
+          eventReward={ModalData.eventReward}
+          eventParticipanat={ModalData.eventParticipanat}
+          round1={ModalData.round1}
+          round2={ModalData.round2}
+          round3={ModalData.round3}
           show={modalShow}
           onHide={() => setModalShow(false)}
         />

@@ -21,7 +21,7 @@ const EventCatalog = () => {
           <br />
           METAVERSE
           <br />
-          #TravelThrouhVirtuality
+          #TravelThroughVirtuality
           <br />
           Enter the realm of metaverse, find your avatar, and challenge yourself
           to participate and compete in various exciting events.
