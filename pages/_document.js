@@ -10,10 +10,7 @@ export default function Document() {
         />
         <meta property="og:title" content="ACUNETIX 10.0" />
         <meta property="og:site_name" content="ACUNETIX" />
-        <meta
-          property="og:image"
-          src="https://techfest.org/static/resources/home/website2.png"
-        />
+        <meta property="og:image" src="/image/poster.jpg" />
         <meta property="og:see_also" content="http://acunetix.tech" />
         <meta
           name="description"
