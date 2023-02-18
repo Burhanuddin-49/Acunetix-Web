@@ -9,7 +9,8 @@ export default function Document() {
           content="ACUNETIX is one of the largest events - ACUNETIX 10.0 9TH-11TH March 2023"
         />
         <meta property="og:title" content="ACUNETIX 10.0" />
-        <meta property="og:site_name" content="ACUNETIX" />
+        <meta property="og:site_name" content="Acunetix" />
+        <meta property="og:url" content="https://acunetix.tech/" />
         <meta property="og:image" src="/image/poster.jpg" />
         <meta property="og:see_also" content="http://acunetix.tech" />
         <meta
@@ -22,6 +23,10 @@ export default function Document() {
         />
         <meta name="robots" content="all" />
         <meta name="author" content="Burhanuddin Marcha" />
+        <meta
+          name="google-site-verification"
+          content="EQPllv4yOfMZ3t9RXE0Uxqs8Rul432nBiJMab-lKYzI"
+        />
         <link rel="icon" type="image/png" href="/image/logo.png" />
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
