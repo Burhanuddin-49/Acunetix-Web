@@ -91,14 +91,14 @@
 }
 
 .containerEvent .cardEvent .box .content h4 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   color: #777;
   z-index: 1;
   padding-top: 14px;
   transition: 0.5s;
 }
 .containerEvent .cardEvent:hover .box .content h4 {
-  font-size: 1.8em;
+  font-size: 1.7em;
   color: rgb(255, 255, 255);
   z-index: 1;
   padding-top: 14px;

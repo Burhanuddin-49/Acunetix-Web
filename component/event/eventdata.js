@@ -146,28 +146,25 @@ export const data = [
     eventReward: `🔶️ ᴄᴀꜱʜ ᴘʀɪᴢᴇꜱ, ʀᴇᴡᴀʀᴅꜱ & ɢᴏᴏᴅɪᴇꜱ ᴡᴏʀᴛʜ- ʀꜱ. 1000`,
     eventlink: "https://forms.gle/6S2VVwFFW3Vz4ApcA",
   },
-  // {
-  //   id: 10,
-  //   name: "TREASURE HUNT",
-  //   date: "11 March",
-  //   img: "image/event.jpg",
-  //   eventsubline: `💰 тнє тяєαѕυяє уσυ ѕєєк,
-  //   αωαιтѕ уσυ! 💰`,
-  //   eventdetail: `ɢᴇᴛ ʏᴏᴜʀ ᴛᴇᴀᴍ ʀᴇᴀᴅʏ, ᴄᴏᴍᴘʟᴇᴛᴇ ʏᴏᴜʀ ᴛᴀꜱᴋꜱ ᴀɴᴅ ꜰɪɴᴅ ᴛʜᴇ ʜɪᴅᴅᴇɴ ᴛʀᴀɪʟ ᴏꜰ ᴄʟᴜᴇꜱ ᴀɴᴅ ʜɪɴᴛꜱ ᴛʜᴀᴛ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴛʜᴇ ꜰɪɴᴀʟ ᴛʀᴇᴀꜱᴜʀᴇ 🤝🏻
+  {
+    id: 10,
+    name: "TREASURE TROVE",
+    date: "11 March",
+    img: "https://drive.google.com/uc?export=view&id=1863zS71TNAz2Nt7xdOyhioUkzJw2Ov-v",
+    eventsubline: `💰 тнє тяєαѕυяє уσυ ѕєєк, αωαιтѕ уσυ! 💰`,
+    eventdetail: `ɢᴇᴛ ʏᴏᴜʀ ᴛᴇᴀᴍ ʀᴇᴀᴅʏ, ᴄᴏᴍᴘʟᴇᴛᴇ ʏᴏᴜʀ ᴛᴀꜱᴋꜱ ᴀɴᴅ ꜰɪɴᴅ ᴛʜᴇ ʜɪᴅᴅᴇɴ ᴛʀᴀɪʟ ᴏꜰ ᴄʟᴜᴇꜱ ᴀɴᴅ ʜɪɴᴛꜱ ᴛʜᴀᴛ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴛʜᴇ ꜰɪɴᴀʟ ᴛʀᴇᴀꜱᴜʀᴇ 🤝🏻
 
-  //   ʜᴜɴᴛ ꜰᴏʀ ᴛʜᴇ ᴛʀᴇᴀꜱᴜʀᴇ ᴀɴᴅ ᴡɪɴ ᴇxᴄɪᴛɪɴɢ ᴄᴀꜱʜ ᴘʀɪᴢᴇꜱ 🤑
-
-  //   ⭐ᴛʜᴇ ᴇᴠᴇɴᴛ ᴡɪʟʟ ʜᴀᴠᴇ 3 ʀᴏᴜɴᴅꜱ :
-
-  //   🔶 Round 1 : 𝑶𝒇𝒇 𝑪𝒂𝒎𝒑𝒖𝒔 𝑯𝒖𝒏𝒕
-
-  //    𝑰𝒏 𝑪𝒂𝒎𝒑𝒖𝒔(𝑼𝒏𝒅𝒆𝒓 𝑪𝒂𝒎𝒑𝒖𝒔 𝑹𝒂𝒅𝒊𝒖𝒔)
-  //   `,
-  // round1:``;
-  // round2:``;
-  // round3:``;
-  // eventParticipanat: `🔶 ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴘᴇʀ ᴛᴇᴀᴍ – 5`,
-  // eventReward: `🔶️ ʀᴇᴡᴀʀᴅꜱ & ɢᴏᴏᴅɪᴇꜱ ᴡᴏʀᴛʜ `,
-  //   eventlink: "https://forms.gle/Uh4GZSchSdUrpRw39",
-  // },
+    ʜᴜɴᴛ ꜰᴏʀ ᴛʜᴇ ᴛʀᴇᴀꜱᴜʀᴇ ᴀɴᴅ ᴡɪɴ ᴇxᴄɪᴛɪɴɢ ᴄᴀꜱʜ ᴘʀɪᴢᴇꜱ 🤑
+    
+     
+    ⭐ᴛʜᴇ ᴇᴠᴇɴᴛ ᴡɪʟʟ ʜᴀᴠᴇ 3 ʀᴏᴜɴᴅꜱ :
+    
+    `,
+    round1: `🔶 Round 1 : 𝑶𝒇𝒇 𝑪𝒂𝒎𝒑𝒖𝒔 𝑯𝒖𝒏𝒕`,
+    round2: `🔶 Round 2 : 𝑰𝒏 𝑪𝒂𝒎𝒑𝒖𝒔 (𝑼𝒏𝒅𝒆𝒓 𝑪𝒂𝒎𝒑𝒖𝒔 𝑹𝒂𝒅𝒊𝒖𝒔)`,
+    round3: `🔶 Round 3 : 𝑭𝒊𝒏𝒂𝒍 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒕𝒊𝒐𝒏`,
+    eventParticipanat: `🔶 ᴘᴀʀᴛɪᴄɪᴘᴀɴᴛꜱ ᴘᴇʀ ᴛᴇᴀᴍ – 5`,
+    eventReward: `🔶️ ᴄᴀꜱʜ ᴘʀɪᴢᴇꜱ, ʀᴇᴡᴀʀᴅꜱ & ɢᴏᴏᴅɪᴇꜱ ᴡᴏʀᴛʜ ʀꜱ. 3000`,
+    eventlink: "https://forms.gle/Uh4GZSchSdUrpRw39",
+  },
 ];
