@@ -60,6 +60,10 @@ export default function Document() {
         <meta property="og:site_name" content="Acunetix" />
         <meta property="og:url" content="https://acunetix.tech/" />
         <meta property="og:image" src="/image/logo.png" />
+        <meta
+          property="article:publisher"
+          content="https://www.instagram.com/acunetix.dit/"
+        />
         <meta property="og:see_also" content="http://www.acunetix.tech" />
         <meta
           name="description"
