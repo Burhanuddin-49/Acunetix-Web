@@ -98,6 +98,11 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap"
           rel="stylesheet"
         />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7297047240840346"
+          crossorigin="anonymous"
+        ></script>
       </Head>
       <body>
         <Main />
