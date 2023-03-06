@@ -123,11 +123,11 @@
   -moz-transition: all 300ms ease;
   transition: all 300ms ease;
 }
-.service-block-two .inner-box:hover::before {
+/* .service-block-two .inner-box:hover::before {
   height: 100%;
   opacity: 1;
-}
-.service-block-two .inner-box:hover .shape-one {
+} */
+/* .service-block-two .inner-box:hover .shape-one {
   transform: scale(1);
   -webkit-transition-delay: 300ms;
   -ms-transition-delay: 300ms;
@@ -139,9 +139,9 @@
   -webkit-transition-delay: 400ms;
   -ms-transition-delay: 400ms;
   transition-delay: 400ms;
-}
+} */
 
-.service-block-two .inner-box:hover .icon-box,
+/* .service-block-two .inner-box:hover .icon-box,
 .service-block-two .inner-box:hover .spon_name,
 .service-block-two .inner-box:hover h3,
 .service-block-two .inner-box:hover h5 a,
@@ -151,7 +151,7 @@
   transition-delay: 400ms;
   color: #ffffff;
   opacity: 100%;
-}
+} */
 
 * .spon_img {
   display: block;

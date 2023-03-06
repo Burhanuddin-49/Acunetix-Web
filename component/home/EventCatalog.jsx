@@ -1,12 +1,10 @@
 import { Button } from "@mui/material";
 import React from "react";
 // import "./styles/EventCatalog.css";
-import { useRouter } from "next/router";
 import Link from "next/link";
 import IndividualIntervalsExample from "../event/Carousel";
 
 const EventCatalog = () => {
-  const { push } = useRouter();
   return (
     <div className="EventCatalog">
       <div className="split2 left2">

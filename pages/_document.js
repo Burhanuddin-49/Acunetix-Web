@@ -117,6 +117,17 @@ export default function Document() {
           integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
           crossOrigin="anonymous"
         ></script>
+        <amp-ad
+          width="100vw"
+          height="320"
+          type="adsense"
+          data-ad-client="ca-pub-7297047240840346"
+          data-ad-slot="9130489177"
+          data-auto-format="rspv"
+          data-full-width=""
+        >
+          <div overflow=""></div>
+        </amp-ad>
       </body>
     </Html>
   );
